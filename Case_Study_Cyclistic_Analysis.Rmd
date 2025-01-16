@@ -2,9 +2,7 @@
 title: "Case Study Cyclistic"
 author: "Javier"
 date: "2025-01-09"
-output:
-  word_document: default
-  html_document: default
+
 ---
 
 ## Cyclistic Bike-Share Analysis Case Study
